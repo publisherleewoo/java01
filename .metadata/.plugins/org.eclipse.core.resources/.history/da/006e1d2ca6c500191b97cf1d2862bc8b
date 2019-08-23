@@ -1,0 +1,11 @@
+package ch02;
+
+public class Ex04 {
+
+	public static void main(String[] args) {
+		char a = 'A';   //1글자 문자형 변수 a에 값을 저장 
+		System.out.println(a); //변수 a에 저장된 값 출력
+		System.out.println((int)a);
+	}
+
+}

@@ -1,0 +1,19 @@
+package ch02;
+
+import java.util.Scanner;
+
+public class BitNot {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.println("당신의 수학점수는?:");
+		int mathScore = scan.nextInt();
+		System.out.println("당신의 영어점수는?:");
+		int engScore = scan.nextInt();
+		System.out.println("당신의 국어점수는?:");
+		int korScore = scan.nextInt();
+		int avg = (mathScore + engScore + korScore) /3;
+		System.out.println("당신의 평균은 " + avg +"입니다");
+	}
+
+}

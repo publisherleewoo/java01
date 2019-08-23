@@ -1,0 +1,29 @@
+package ch02;
+
+import java.util.Scanner;
+
+public class BitNot {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.println("이름");
+		String name = scan.next();
+		System.out.println("수학점수는?:");
+		int mathScore = scan.nextInt();
+		System.out.println("영어점수는?:");
+		int engScore = scan.nextInt();
+		System.out.println("국어점수는?:");
+		int korScore = scan.nextInt();
+		
+		int total = mathScore + engScore + korScore;
+		int avg = total /3.0;
+		
+		System.out.println(
+		"이름" +"\t"+ "수학"+"\t"+ "영어"+"\t"+ "국어"  +"\t"+ "총점" +"\t"+ "평균"
+		);
+		System.out.println(
+		name +"\t"+ mathScore  +"\t"+ engScore  +"\t"+ korScore  +"\t"+ total  +"\t"+ avg
+		);
+	}
+
+}

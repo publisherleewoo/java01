@@ -1,0 +1,13 @@
+package ch02;
+
+public class Ex06 {
+
+	public static void main(String[] args) {
+		int num1 = 2147483647+1; //이럴경우 long타입을 사용
+		System.out.println(num1);
+		System.out.println(Integer.MAX_VALUE);
+		System.out.println(Integer.MIN_VALUE);
+
+	}
+
+}
