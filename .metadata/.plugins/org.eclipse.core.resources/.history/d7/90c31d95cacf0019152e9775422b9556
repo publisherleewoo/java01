@@ -1,0 +1,26 @@
+package ch02;
+
+public class Ex04 {
+
+	public static void main(String[] args) {
+		char A = 'A';   //1글자 문자형 변수 a에 값을 저장 
+		System.out.println(A); //변수 a에 저장된 값 출력
+		System.out.println((int)A);
+		
+		char a = 'a';   //1글자 문자형 변수 a에 값을 저장 
+		System.out.println(a); //변수 a에 저장된 값 출력
+		System.out.println((int)a);
+		
+		char 가 = '가';   //1글자 문자형 변수 a에 값을 저장 
+		System.out.println(가); //변수 a에 저장된 값 출력
+		System.out.println((int)가);
+
+		for(int i ='A'; i<='Z'; i++) {
+			System.out.println((char)i+"==>"+i);
+		}
+//		for(int i ='가'; i<='하'; i++) {
+//			System.out.println((char)i+"==>"+i);
+//		}
+	}S
+
+}

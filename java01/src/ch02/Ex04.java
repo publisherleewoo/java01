@@ -21,6 +21,6 @@ public class Ex04 {
 //		for(int i ='가'; i<='하'; i++) {
 //			System.out.println((char)i+"==>"+i);
 //		}
-	}S
+	}
 
 }
