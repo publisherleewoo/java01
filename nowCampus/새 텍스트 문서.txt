@@ -1,0 +1,18 @@
+운영체제
+JVM (Java Vitual Machine)  (대부분의 Os에 깔려있다)
+JAVA API (클래스 라이브러리)
+JAVA 언어
+
+객체지향언어.
+메모리해제 ->가비지 컬렉터(garbage collector)
+
+확장자 ->java
+
+전체실행과정 
+*.java -> *.class ->JVM 실행
+
+
+JDK 구성
+1) Java 프로그램 개발도구(컴파일러 등)
+2) JRE -> JVM + 여러 표준 클래스
+

@@ -1,0 +1,13 @@
+package ch09;
+
+public class Array {
+
+	public static void main(String[] args) {
+		int[] numbers = new int[3];
+		//int 타입의 배열을 numbers라는 변수에 담는다
+		// new int[3];  3개의 배열;
+		
+
+	}
+
+}
