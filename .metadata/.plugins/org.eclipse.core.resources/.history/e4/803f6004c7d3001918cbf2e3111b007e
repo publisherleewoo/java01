@@ -1,0 +1,19 @@
+package ch10;
+
+class Person {
+	
+	// Instance variables
+	String name;
+	String booldType;
+	// class:
+	// 1. Data(Property)
+	// 2. Methods
+}
+
+public class Test {
+	public static void main(String[] args) {
+		Person person1 = new Person(); //new는 클래스를 실체화할때 쓰는 예약어
+		person1.name = "Rin";
+		person1.booldType = "B";
+	}
+}
