@@ -1,0 +1,9 @@
+package ch14;
+
+public class User {
+	String userName;
+	
+	void setUserName(String userName) {
+		this.userName = userName;
+	}
+}

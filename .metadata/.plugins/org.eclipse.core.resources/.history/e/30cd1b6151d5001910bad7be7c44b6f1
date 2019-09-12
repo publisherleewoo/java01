@@ -1,0 +1,19 @@
+package ch17;
+
+
+class Example{
+	static String name ="Rin";
+	
+	static void showName() {
+		System.out.println(this.name);
+	}
+}
+
+public class Main {
+
+	public static void main(String[] args) {
+		 
+		System.out.println(Example.name);  //객체화 시키지않아도 static이면 접근 가능하다.
+	}
+
+}

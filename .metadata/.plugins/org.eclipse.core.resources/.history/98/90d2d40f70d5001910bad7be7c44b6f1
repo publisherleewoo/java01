@@ -1,0 +1,7 @@
+package ch19;
+
+public class User implements Promise{
+	public void info() {
+		System.out.println("오버라이드");
+	};
+}

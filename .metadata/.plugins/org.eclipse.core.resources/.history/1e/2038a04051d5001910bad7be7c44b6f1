@@ -1,0 +1,16 @@
+package ch17;
+
+
+class Example{
+	  String name ="Rin";
+	
+}
+
+public class Main {
+
+	public static void main(String[] args) {
+		 
+		System.out.println(Example.name);
+	}
+
+}
