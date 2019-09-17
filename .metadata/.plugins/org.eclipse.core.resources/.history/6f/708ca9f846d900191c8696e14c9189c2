@@ -1,0 +1,13 @@
+package ch23;
+
+public class Phone {
+	long number = 1231231234;
+	
+	public long getNumber() {
+		return this.number;
+	}
+	
+	public void setNumber(long a) {
+		this.number = a;
+	}
+}

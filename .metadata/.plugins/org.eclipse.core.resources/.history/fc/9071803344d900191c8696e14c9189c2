@@ -1,0 +1,26 @@
+package ch22;
+
+class Human{
+	void showInfo() {
+		System.out.println("All human beings are equal.");
+	}
+}
+
+class Asian extends Human{
+	@Override
+	void showInfo() {
+		System.out.println("Test");
+	}
+	
+}
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Asian test = new Asian();
+		test.showInfo();
+	}
+
+}

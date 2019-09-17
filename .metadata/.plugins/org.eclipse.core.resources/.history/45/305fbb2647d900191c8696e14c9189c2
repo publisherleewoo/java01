@@ -1,0 +1,12 @@
+package ch23;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Phone myPhone = new Phone();
+		System.out.println(myPhone.getNumber());
+		myPhone.setNumber(7897897896);
+		System.out.println(myPhone.getNumber());
+	}
+
+}
