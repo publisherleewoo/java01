@@ -1,0 +1,26 @@
+package ch27;
+
+class Person<T>{
+	private T Name;
+	
+	Person(){
+		System.out.println("사람생성자");
+	}
+	  void setName(T value) {
+		this.Name = value;
+	}
+	  T getName() {
+		return this.Name;
+	}
+	
+}
+
+
+public class Main {
+	public static void main(String[] args) {
+		Person<String> p1 = new Person<String>();
+		p1.setName("사람");
+		
+		
+	}
+}

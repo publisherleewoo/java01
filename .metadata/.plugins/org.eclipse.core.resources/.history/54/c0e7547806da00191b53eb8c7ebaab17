@@ -1,0 +1,19 @@
+package ch26;
+
+class Gen{
+	 
+	   Gen() {
+		System.out.println("zzzzzzzzzzzz컨스트럭터");
+	}
+	  
+}
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		 Gen a = new Gen();
+		 
+	}
+
+}
