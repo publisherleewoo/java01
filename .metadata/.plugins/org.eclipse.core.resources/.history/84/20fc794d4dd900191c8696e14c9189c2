@@ -13,8 +13,7 @@ public class Main {
 		
 		int num = (int) bigNum;
 		System.out.println(num);
-		//String n = (String) smallNum //Err
-		String n =  Integer.toString(smallNum);
+		String n =  Interget.toString(smallNum);
 		System.out.println(n);
 	}
 

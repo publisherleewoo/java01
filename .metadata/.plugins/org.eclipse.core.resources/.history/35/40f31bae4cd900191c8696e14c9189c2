@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		short smallNum = 123;
-		int normalNum =12345;
+		int normalNum =123456789111;
 		long bigNum =123456789L;
 		
 		
@@ -13,9 +13,6 @@ public class Main {
 		
 		int num = (int) bigNum;
 		System.out.println(num);
-		//String n = (String) smallNum //Err
-		String n =  Integer.toString(smallNum);
-		System.out.println(n);
 	}
 
 }

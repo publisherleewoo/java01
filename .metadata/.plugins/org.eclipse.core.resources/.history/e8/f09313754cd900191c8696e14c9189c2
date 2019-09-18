@@ -11,11 +11,7 @@ public class Main {
 		float floatNum =1.123f;
 		double doubleNum = 1.123456789;
 		
-		int num = (int) bigNum;
-		System.out.println(num);
-		//String n = (String) smallNum //Err
-		String n =  Integer.toString(smallNum);
-		System.out.println(n);
+		int num = (num)bigNum;
 	}
 
 }
