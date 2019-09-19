@@ -1,0 +1,16 @@
+package ch28;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Phone.ID=0;
+		System.out.println(Phone.ID);
+	
+		Laptop notebook1 = new Laptop();
+		notebook1.ID=1;
+		System.out.println(notebook1.ID);
+	}
+
+}

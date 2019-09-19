@@ -1,0 +1,28 @@
+package ch27;
+
+
+class Nation{
+	private String name;
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getName() {
+		return this.name;
+	}
+	
+}
+
+public class Main {
+	public static void main(String[] args) {
+		 Nation nation1 = new Nation();
+		 Nation nation2 = new Nation();
+		 
+		 nation1.setName("korea");
+		 nation2.setName("japan");
+		 
+		 System.out.println(nation1.getName());
+		 System.out.println(nation2.getName());
+		
+		
+	}
+}
