@@ -1,0 +1,5 @@
+package ch29;
+
+public class Cat extends Animal{
+
+}

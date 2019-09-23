@@ -1,0 +1,7 @@
+package ch29;
+
+public class Animal {
+	void hi() {
+		System.out.println("나는 동물이다");
+	}
+}
