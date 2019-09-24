@@ -1,7 +1,0 @@
-package ch18;
-
-public class Animal {
-	void move() {
-		System.out.println("Moving!");
-	}
-}
