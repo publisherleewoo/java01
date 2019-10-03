@@ -1,5 +1,0 @@
-package ch29;
-
-public abstract class Animal {    //동물은 객체가아니라 추상적 클래스
-	public abstract void move();
-}
