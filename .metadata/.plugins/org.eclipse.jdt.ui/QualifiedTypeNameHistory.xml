@@ -6,8 +6,6 @@
 <fullyQualifiedTypeName name="java.nio.file.Paths"/>
 <fullyQualifiedTypeName name="java.nio.file.Files"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="com.javalect.ex06.WomanClass"/>
 <fullyQualifiedTypeName name="com.javalec11.children.ThirdChild"/>
 <fullyQualifiedTypeName name="com.javalec11.papa.PapaPouch"/>
@@ -15,4 +13,7 @@
 <fullyQualifiedTypeName name="com.javalec13s.ex.StoreNum1"/>
 <fullyQualifiedTypeName name="com.javalec14.ex.StoreNum1"/>
 <fullyQualifiedTypeName name="com.javalec16.ex.StarCar"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 </qualifiedTypeNameHistroy>
