@@ -2,9 +2,11 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
  
 public class HelloWorldApp {
+	private static Scanner sn;
+
 	public static void main(String[] args) {
 		 String id = JOptionPane.showInputDialog("Enter a ID");
-		Scanner sn = new Scanner(System.in);	
+		 sn = new Scanner(System.in);	
 		String name;
 		String fname;
 		System.out.println("당신의 이름은?");
