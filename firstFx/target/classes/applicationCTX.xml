@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- 생성자를  생성하는것이아니라, bean을 이용한 객체 생성. id값과 class 값등 아래양식으로 입력. -->
+	<bean id="calculator" class="com.javalec.ex.Calculator" />
+	
+	<bean id="myCalculator" class="com.javalec.ex.MyCalculator">
+		<property name="calculator">
+			<ref bean="calculator"/> <!-- 참조하는 객체.  위에있는 class="com.javalec.ex.Calculator" 아이디값 -->
+		</property>
+		<property name="firstNum" value="10" />
+		<property name="secondNum" value="2"></property>
+	</bean>
+
+</beans>
