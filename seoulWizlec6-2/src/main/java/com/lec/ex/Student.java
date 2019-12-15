@@ -2,6 +2,9 @@ package com.lec.ex;
 
 import java.util.ArrayList;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 public class Student {
 
 	private String name;
@@ -54,6 +57,16 @@ public class Student {
 	
 	public double getWeight() {
 		return weight;
+	}
+	
+	@PostConstruct
+	public void a() {
+		System.out.println("생성");
+	}
+	
+	@PreDestroy
+	public void b() {
+		System.out.println("파괴");
 	}
 	
 }
