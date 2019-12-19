@@ -10,6 +10,7 @@
 	
 	<%
 		String context = request.getContextPath();
+		System.out.println(context);
 	%>
 	
 	<form action="<%=context%>/studentView" method="post">

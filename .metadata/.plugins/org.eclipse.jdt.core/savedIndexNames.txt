@@ -1,13 +1,7 @@
 INDEX VERSION 1.131+C:\Users\leewoo\Desktop\javabasic\.metadata\.plugins\org.eclipse.jdt.core
-1031075408.index
-3478495920.index
-3951510029.index
-3522485675.index
-2781608984.index
-1431811014.index
-864537305.index
-447731417.index
-2515683265.index
-651113937.index
-4215218775.index
-565001400.index
+48555832.index
+2173110288.index
+2700103643.index
+2203651895.index
+529408674.index
+3700517376.index
