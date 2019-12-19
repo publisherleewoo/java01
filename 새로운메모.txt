@@ -23,3 +23,37 @@ static은 클래스에서 객체가 생성되기전의 값을 공유하는것
 class는 데이터영역
 
 객체가 모여있는영역은 힙영역  ->가비지 콜렉터 관리
+
+
+
+interface  : 사전규약,약속.
+외부에서 써야하기때문에 public이어야한다.
+만약 아래의 약속이 지켜지지않는다면 컴파일단계에서 막는다.
+
+ interface A{
+
+   public void test(int a, int b, int c)
+}
+
+구현은 아래처럼한다.
+A인터페이스를 구현한 test 객체라고 하면된다.
+
+class test implements A{
+  void test(int a, int bm int c){}
+}
+
+
+
+아래처럼 복수개의 인터페이스 구현도 가능하다.
+interface I1{
+    public void x();
+}
+ 
+interface I2{
+    public void z();
+}
+ 
+class A implements I1, I2{
+    public void x(){}
+    public void z(){}   
+}

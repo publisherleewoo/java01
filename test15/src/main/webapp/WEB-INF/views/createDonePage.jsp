@@ -5,8 +5,13 @@
 	<title>Home</title>
 </head>
 <body>
-createDonePage.jsp<br/>
-name : ${student.name} <br/>
-id: ${student.id}
+<h1>
+	Hello world!  
+</h1>
+
+<P> createDonePage.jsp </P>
+${user.uid}
+${user.upw}
+${user.uname}
 </body>
 </html>
