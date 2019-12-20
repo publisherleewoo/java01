@@ -21,14 +21,14 @@ public class BController {
 	
 	BCommand command;
 	
-	@RequestMapping(value="/list")
+	@RequestMapping("/list")
 	public String list(Model model) {
 		System.out.println("list()");
 		
 		command = new BListCommand();
 		command.execute(model);
-		
-		return "";
+
+		return "list";
 	}
 	
 	@RequestMapping(value="/write_view")
