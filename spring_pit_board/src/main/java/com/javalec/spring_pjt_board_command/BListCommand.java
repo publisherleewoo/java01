@@ -12,13 +12,8 @@ public class BListCommand implements BCommand {
 	@Override
 	public void execute(Model model) {
 		// TODO Auto-generated method stub
-		
-	
 		BDao dao = new BDao();
 		ArrayList<BDto> dtos = dao.list();
-		System.out.println(dtos.get(0).getbId());
-		System.out.println(dtos.get(0).getbName());
-
 		model.addAttribute("list", dtos);
 	}
 }
