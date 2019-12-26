@@ -37,12 +37,12 @@ public class BController {
 		return "write_view";
 	}
 	
-	@RequestMapping(value="/write")
+	@RequestMapping(value="/write", method = RequestMethod.POST)
 	public String write(HttpServletRequest request,Model model) {   //request : getParameter ( form에서 던진것받기)
 		System.out.println("write()");
-		
 		model.addAttribute("request",request);
 		command =new BWriteCommand();
+		command.execute(model);
 		
 		return "redirect:list";
 	}

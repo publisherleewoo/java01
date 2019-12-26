@@ -17,9 +17,10 @@ public class BDao {
 	
 	DataSource dataSource;
 	
+	
+	
 	public BDao(){
 		try {
-			
 			Context context = new InitialContext();
             dataSource = (DataSource) context.lookup("java:comp/env/jdbc/MyMysql");
 		} catch(NamingException e) {	
@@ -27,7 +28,34 @@ public class BDao {
 		}
 	}
 	
-	
+	public void write(String bName, String bTitle, String bContent) {
+		Connection connection = null;
+		PreparedStatement preparedStatement =null;
+		System.out.println(bName);
+		try {
+			
+			connection = dataSource.getConnection();
+			String query ="Insert into mvc_board (bName, bTitle, bContent, bHit, bGroup, bStep, bIndent) "
+					+ "values "
+					+ "(?,?,?,0,0,0,0)";
+			preparedStatement = connection.prepareStatement(query);
+			preparedStatement.setString(1,bName);
+			preparedStatement.setString(2,bTitle);
+			preparedStatement.setString(3,bContent);
+			
+			int m = preparedStatement.executeUpdate();
+			
+		}catch(Exception e) {
+			e.printStackTrace();
+		}finally {
+			try {
+				if(preparedStatement != null)  preparedStatement.close();
+				if(connection != null) connection.close();
+			}catch(Exception e2) {
+				e2.printStackTrace();
+			}
+		}
+	}
 	public ArrayList<BDto> list() {
 		
 			ArrayList<BDto> dtos = new ArrayList<BDto>();
