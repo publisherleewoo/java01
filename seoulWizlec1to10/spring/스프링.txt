@@ -1,0 +1,25 @@
+스프링:객체지향 프레임워크
+객체지향프로그래밍(OOP):은상추다
+
+
+
+객체지향 설계 -> 객체지향 5대원칙 ->SOLID 
+SRP:단일책임원칙 (어떤 클래스를 변경해야 하는 이유는 오직 하나뿐이어야한다)
+OCP:개방폐쇄원칙 (소프트웨어 엔티티는 자신의 확장에는 열려있고, 주변의 변화에 대해서는 닫혀있어야한다)
+LSP:리스코프치환원칙 (서브타입은 언제나 자신의 기반타입으로 교체할수 있어야한다)
+ISP:인터페이스분리원칙 (클라이언트는 자신이 사용하지 않는 메서드에 의존관계를 맺으면 안된다)
+DIP:의존역전원칙 (자신보다 변하기 쉬운것에 의존하지마라)
+
+OODP 객체지향설계패턴
+
+스프링 삼각형 + 설계정보 
+POJO(Plain Old Java Object)를 중심으로
+
+->DI (Dependency injection)            의존성 주입을 하겠다는것.
+->AOP (Aspect Oriented Programming)   어떠한 관점으로 모듈화하겠다는것
+->PSA (Portable Service Abstractions)    JDBC (mybatis,JPA,sequelize같은거)
+
+IOC: Inversion Of Control   (역전제어: 작은부품에서 큰부품으로)
+
+ 
+ 
