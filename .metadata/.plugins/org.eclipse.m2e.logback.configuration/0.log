@@ -11228,3 +11228,139 @@ org.eclipse.jdt.core.JavaModelException: target/classes/com/javalec/ex [in test1
 2019-12-26 20:30:52,961 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-12-26 20:30:52,963 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-12-26 20:30:52,964 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 22:01:17,599 [Worker-13: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-26 22:01:28,956 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:01:28,966 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-26 22:01:28,976 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:01:28,978 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-26 22:01:30,723 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:01:30,726 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-26 22:01:30,731 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:01:30,733 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-26 22:02:38,104 [Worker-14: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.javalec:spring_16_1_ex1_srpingex:1.0.0-BUILD-SNAPSHOT @ C:\Users\leewoo\Desktop\javabasic\seoulWizlec11toEnd\spring_16_1_ex1_srpingex\pom.xml.
+2019-12-26 22:02:38,726 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:02:38,727 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-26 22:02:38,730 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:02:38,731 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-26 22:02:39,396 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.javalec:spring_16_1_ex1_srpingex:1.0.0-BUILD-SNAPSHOT @ C:\Users\leewoo\Desktop\javabasic\seoulWizlec11toEnd\spring_16_1_ex1_srpingex\pom.xml.
+2019-12-26 22:02:40,677 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:02:40,683 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 22:02:40,685 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:02:40,688 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 22:05:18,085 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:05:18,099 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-26 22:05:18,101 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:05:18,103 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 22:05:22,242 [Worker-7: Launching Tomcat v7.0 Server at localhost] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:05:22,243 [Worker-7: Launching Tomcat v7.0 Server at localhost] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 22:05:22,245 [Worker-7: Launching Tomcat v7.0 Server at localhost] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:05:22,246 [Worker-7: Launching Tomcat v7.0 Server at localhost] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 22:05:58,184 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:05:58,186 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 22:05:58,188 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-26 22:05:58,190 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-27 10:38:04,156 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-27 10:38:04,182 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-27 10:38:04,201 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-27 10:38:04,204 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-27 10:38:06,525 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-27 10:38:06,530 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-27 10:38:06,534 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-27 10:38:06,536 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-27 10:38:06,922 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-27 10:38:06,925 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-27 10:38:06,931 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-12-27 10:38:06,933 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-27 10:38:33,258 [Worker-18: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-27 10:38:43,663 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-27 10:38:47,370 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring-petclinic:2.2.0.BUILD-SNAPSHOT @ C:\Users\leewoo\Desktop\spring-petclinic\pom.xml.
+2019-12-27 10:38:53,255 [Worker-17: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-petclinic/src/main/java
+2019-12-27 10:38:53,258 [Worker-17: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-petclinic/src/main/resources
+2019-12-27 10:38:53,292 [Worker-17: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-petclinic/src/main/resources
+2019-12-27 10:38:53,347 [Worker-17: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-petclinic/src/test/java
+2019-12-27 10:38:59,986 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 16 sec
+2019-12-27 10:39:04,623 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - dotGitDirectory C:\Users\leewoo\Desktop\spring-petclinic\.git
+2019-12-27 10:39:05,092 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.user.name with value leewoo
+2019-12-27 10:39:05,094 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.user.email with value dlguddn3214@naver.com
+2019-12-27 10:39:05,155 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.branch with value master
+2019-12-27 10:39:05,158 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --always = true
+2019-12-27 10:39:05,158 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --dirty = -dirty
+2019-12-27 10:39:05,161 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --abbrev = 7
+2019-12-27 10:39:05,176 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2019-12-27 10:39:05,221 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2019-12-27 10:39:05,223 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [f9424b548ad476f1cffb7b013ea832d620963925]
+2019-12-27 10:39:05,477 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.describe with value f9424b5
+2019-12-27 10:39:05,477 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.describe-short with value f9424b5
+2019-12-27 10:39:05,478 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id with value f9424b548ad476f1cffb7b013ea832d620963925
+2019-12-27 10:39:05,479 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.abbrev with value f9424b5
+2019-12-27 10:39:05,552 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.dirty with value false
+2019-12-27 10:39:05,555 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.user.name with value Dave Syer
+2019-12-27 10:39:05,556 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.user.email with value dsyer@pivotal.io
+2019-12-27 10:39:05,557 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.message.full with value Spring Boot 2.2.2
+2019-12-27 10:39:05,558 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.message.short with value Spring Boot 2.2.2
+2019-12-27 10:39:05,559 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.time with value 2019-12-11T01:21:41+0900
+2019-12-27 10:39:05,561 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.remote.origin.url with value https://github.com/spring-projects/spring-petclinic.git
+2019-12-27 10:39:05,587 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.tags with value 
+2019-12-27 10:39:05,603 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [f9424b548ad476f1cffb7b013ea832d620963925]
+2019-12-27 10:39:05,606 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2019-12-27 10:39:05,609 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2019-12-27 10:39:05,624 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.closest.tag.name with value 
+2019-12-27 10:39:05,639 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [f9424b548ad476f1cffb7b013ea832d620963925]
+2019-12-27 10:39:05,642 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2019-12-27 10:39:05,645 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2019-12-27 10:39:05,658 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.closest.tag.commit.count with value 
+2019-12-27 10:39:05,671 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.total.commit.count with value 674
+2019-12-27 10:39:08,393 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.local.branch.ahead with value 0
+2019-12-27 10:39:08,393 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.local.branch.behind with value 0
+2019-12-27 10:39:08,400 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.time with value 2019-12-27T10:39:08+0900
+2019-12-27 10:39:08,401 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.version with value 2.2.0.BUILD-SNAPSHOT
+2019-12-27 10:39:08,402 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.host with value DESKTOP-JEATMSL
+2019-12-27 10:39:08,402 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.user.email in results
+2019-12-27 10:39:08,402 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.host in results
+2019-12-27 10:39:08,402 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.dirty in results
+2019-12-27 10:39:08,402 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.local.branch.behind in results
+2019-12-27 10:39:08,402 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.remote.origin.url in results
+2019-12-27 10:39:08,402 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.closest.tag.name in results
+2019-12-27 10:39:08,402 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.local.branch.ahead in results
+2019-12-27 10:39:08,403 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.total.commit.count in results
+2019-12-27 10:39:08,403 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.describe-short in results
+2019-12-27 10:39:08,403 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.user.email in results
+2019-12-27 10:39:08,403 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.time in results
+2019-12-27 10:39:08,403 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.message.full in results
+2019-12-27 10:39:08,403 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.version in results
+2019-12-27 10:39:08,403 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.message.short in results
+2019-12-27 10:39:08,403 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.abbrev in results
+2019-12-27 10:39:08,403 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.branch in results
+2019-12-27 10:39:08,404 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.user.name in results
+2019-12-27 10:39:08,404 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.closest.tag.commit.count in results
+2019-12-27 10:39:08,404 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.describe in results
+2019-12-27 10:39:08,404 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id in results
+2019-12-27 10:39:08,404 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.tags in results
+2019-12-27 10:39:08,404 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.time in results
+2019-12-27 10:39:08,404 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.user.name in results
+2019-12-27 10:39:08,419 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing properties file to [C:\Users\leewoo\Desktop\spring-petclinic\target\classes\git.properties] (for module petclinic)...
+2019-12-27 10:39:09,473 [Worker-8: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/leewoo/AppData/Local/Temp/RemoteBundleDiscoveryStrategy1853816342283671309.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_6394810305386233382.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2019-12-27 10:39:09,475 [Worker-8: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2019-12-27 10:39:09,478 [Worker-8: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/leewoo/AppData/Local/Temp/RemoteBundleDiscoveryStrategy1853816342283671309.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_6394810305386233382.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2019-12-27 10:39:09,479 [Worker-8: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2019-12-27 10:39:09,482 [Worker-8: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/leewoo/AppData/Local/Temp/RemoteBundleDiscoveryStrategy1853816342283671309.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_6394810305386233382.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2019-12-27 10:39:09,484 [Worker-8: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2019-12-27 10:39:09,598 [Worker-8: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/leewoo/AppData/Local/Temp/RemoteBundleDiscoveryStrategy1853816342283671309.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_6394810305386233382.jar!/lifecycle%2Forg.eclipse.m2e.discovery.extras.m2e-chromatic.xml
+2019-12-27 10:39:09,604 [Worker-8: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.extras.m2e-chromatic does not contain lifecycle mapping metadata
+2019-12-27 10:39:10,849 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 10:39:10,850 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-27 10:39:10,875 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2019-12-27 10:39:11,009 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 10:39:11,010 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leewoo\Desktop\spring-petclinic\src\test\resources
+2019-12-27 10:39:14,598 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 10:39:14,601 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-27 10:39:14,601 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-27 10:39:14,606 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 10:39:14,606 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leewoo\Desktop\spring-petclinic\src\test\resources
+2019-12-27 10:42:59,443 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-27 10:42:59,444 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-12-27 10:52:35,092 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 10:52:35,097 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-27 10:52:35,099 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-27 10:52:35,103 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 10:52:35,104 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leewoo\Desktop\spring-petclinic\src\test\resources

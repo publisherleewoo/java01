@@ -129,7 +129,7 @@
       
       
       
-      <Context docBase="spring_21_1_ex1_srpingex" path="/springMVCBoard" reloadable="true" source="org.eclipse.jst.jee.server:spring_21_1_ex1_srpingex"/></Host>
+      <Context docBase="spring_16_1_ex1_srpingex" path="/spring_16_1_ex1_srpingex" reloadable="true" source="org.eclipse.jst.jee.server:spring_16_1_ex1_srpingex"/></Host>
  
     </Engine>
   </Service>

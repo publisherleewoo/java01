@@ -22,7 +22,7 @@ public class BDao {
 		
 		try {
 			Context context = new InitialContext();
-			dataSource = (DataSource) context.lookup("java:comp/env/jdbc/Oracle11g");
+			dataSource = (DataSource) context.lookup("java:comp/env/jdbc/MyMysql");
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
