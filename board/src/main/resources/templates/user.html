@@ -1,14 +1,21 @@
-<html>
+<!DOCTYPE html>
+<html xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
 <head>
 <title>유저</title>
 	<meta charset="utf-8">
 </head>
 <body>
-바디
+
+<header th:replace="common/header :: commonHeader"></header>
 
 
-<div th:text="${a.id}">
-	
-</div>
+<th:block layout:fragment="content">
+	<h1>컨텐츠</h1>
+	<div th:text="${a.id}"></div>
+</th:block>
+
+
+<footer th:replace="common/footer :: commonFooter"></footer>
+
 </body>
 </html>
