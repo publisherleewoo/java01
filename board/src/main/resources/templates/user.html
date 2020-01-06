@@ -8,11 +8,18 @@
 
 <header th:replace="common/header :: commonHeader"></header>
 
-
+<!-- 
 <th:block layout:fragment="content">
 	<h1>컨텐츠</h1>
-	<div th:text="${a.id}"></div>
+	<div th:utext="${a.id}"></div>
 </th:block>
+ -->
+ 
+ 
+<form id="frm" method="POST"  action="/user">	
+ 	<input type="text"  name="id" value="">
+ 	<button type="submit"> 전송 </button>
+</form>
 
 
 <footer th:replace="common/footer :: commonFooter"></footer>
